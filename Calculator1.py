@@ -1,4 +1,4 @@
-print("Welcome to Simple  Calculator Appliaction!!")
+print("Welcome to Simple  Calculator Application!!")
 
 #Taking input from the user 
 n1=int(input("Enter First Number:"))
@@ -27,4 +27,5 @@ else:
 
 #Displaying the result    
 print("The result is {}".format(result))
+
 print("Thank you for using Calculator Application!! ")
